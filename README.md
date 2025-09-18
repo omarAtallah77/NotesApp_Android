@@ -1,6 +1,6 @@
 # 📒 NotesApp_Android
 
-A simple and clean **Notes App** built with **Android (Java + XML)** and **Room Database**.  
+A simple and clean **Notes App** built with **Android (Kotlin + XML)** and **Room Database**.  
 This app allows users to easily **add, edit, and delete notes**, with data stored locally on the device.
 
 ---
@@ -33,4 +33,5 @@ This app allows users to easily **add, edit, and delete notes**, with data store
 1. Clone the repository  
    ```bash
    git clone https://github.com/omarAtallah77/NotesApp_Android.git
+
 
