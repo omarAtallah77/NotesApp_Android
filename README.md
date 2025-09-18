@@ -1,6 +1,6 @@
 ﻿# NotesApp_Android
 
-![5936272126451501332](https://github.com/user-attachments/assets/61f5fcd2-da7a-402d-ac2f-11c94c643c7a)
-![5936272126451501331](https://github.com/user-attachments/assets/6fc2d3dd-f906-4a77-a5e0-6b7a3e546b59)
-![5936272126451501330](https://github.com/user-attachments/assets/f9bc4328-104c-45d7-8c91-29a62fd0d127)
-![5936272126451501329](https://github.com/user-attachments/assets/3d750625-c114-4816-98f0-9adb8be801d1)
+![5936272126451501372](https://github.com/user-attachments/assets/057fd6c2-6370-4ac6-9059-3b273304de6e)
+![5936272126451501373](https://github.com/user-attachments/assets/7149a05b-0d94-4e0e-92b4-bf7f84009417)
+![5936272126451501371](https://github.com/user-attachments/assets/70c1e313-3a7b-4285-ac43-5d30a0b10d00)
+![5936272126451501370](https://github.com/user-attachments/assets/403c3ee4-8e61-4d9d-b7ab-d51448ef84af)
